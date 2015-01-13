@@ -2,6 +2,8 @@
 
 Clojuban is a sokoban clone made with play-clj.
 
+![Screenshot](/screenshots/shot1.png "Screenshot of the game")
+
 ## Contents
 
 * `desktop/resources` Images, audio, and other files
