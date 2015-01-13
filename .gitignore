@@ -9,3 +9,10 @@ pom.xml.asc
 .lein-repl-history
 .lein-plugins/
 .lein-failures
+data_readers.clj
+hs_err_pid*.log
+pom.xml
+pom.xml.asc
+**/gen
+**/target
+*~
